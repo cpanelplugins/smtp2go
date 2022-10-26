@@ -37,9 +37,17 @@ Your domains are displayed on the main screen and offer at-a-glace status inform
 
 You can use the "Filter" option to view any of the three statuses:
 
-Enabled
-Disabled
-Processing
+- Enabled
+- Disabled
+- Processing
 You can manually "Enable" or "Disable" any domain from being used by the plug in by clicking the drop down arrow at the right of the page.
 
 A domain with the status "Processing" will usually be awaiting DNS verification.
+
+---
+
+# Setting up cPanel & WHM with Exim with SMTP2GO
+
+This guide helps to setup your SMTP2GO server as the Outgoing SMTP Server in cPanel & WHM with Exim.
+
+https://www.smtp2go.com/setupguide/exim_whm_cpanel/
