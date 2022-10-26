@@ -17,7 +17,7 @@ The plugin is designed to complete the following tasks:
 
 After the plug in has been installed, you will need to add your API key and set your options.
 
-slika
+![plugin image](https://raw.githubusercontent.com/cpanelplugins/smtp2go/main/domain-list.jpg "Image Title")[H]
 
 Checking the "Enable SMTP2GO" option will allow the plug in to update the cPanel configuration files so that the domain will automatically route emails via SMTP2GO. This is enabled by default.
 
