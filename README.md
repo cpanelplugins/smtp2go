@@ -32,7 +32,6 @@ Should you need the Settings option again, you can access it on the top right of
 
 Your domains are displayed on the main screen and offer at-a-glace status information:
 
-domain-list.jpg
 ![plugin image](https://raw.githubusercontent.com/cpanelplugins/smtp2go/main/domain-list.jpg "Image Title")
  
 
