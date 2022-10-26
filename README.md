@@ -17,7 +17,7 @@ The plugin is designed to complete the following tasks:
 
 After the plug in has been installed, you will need to add your API key and set your options.
 
-![plugin image](https://raw.githubusercontent.com/cpanelplugins/smtp2go/main/domain-list.jpg "Image Title")[H]
+![plugin image](https://raw.githubusercontent.com/cpanelplugins/smtp2go/main/post-install-setup.png "Image Title")[H]
 
 Checking the "Enable SMTP2GO" option will allow the plug in to update the cPanel configuration files so that the domain will automatically route emails via SMTP2GO. This is enabled by default.
 
@@ -27,14 +27,13 @@ You can generate an API key by logging in to your SMTP2GO dashboard, clicking "S
 
 Should you need the Settings option again, you can access it on the top right of the screen. Clicking "Go to app" will take you to your SMTP2GO account login page. "Refresh" will update the processing status of your domains.
 
-settings-refresh.png
-
+![plugin image](https://raw.githubusercontent.com/cpanelplugins/smtp2go/main/settings-refresh.png "Image Title")[H]
  
 
 Your domains are displayed on the main screen and offer at-a-glace status information:
 
 domain-list.jpg
-
+![plugin image](https://raw.githubusercontent.com/cpanelplugins/smtp2go/main/domain-list.jpg "Image Title")[H]
  
 
 You can use the "Filter" option to view any of the three statuses:
