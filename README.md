@@ -50,4 +50,4 @@ A domain with the status "Processing" will usually be awaiting DNS verification.
 
 This guide helps to setup your SMTP2GO server as the Outgoing SMTP Server in cPanel & WHM with Exim.
 
-https://www.smtp2go.com/setupguide/exim_whm_cpanel/
+https://support.smtp2go.com/hc/en-gb/articles/4405809053977-cPanel-WHM-Automation-Plugin
